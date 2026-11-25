@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+skills-lock.json
 
 # testing
 /coverage
@@ -45,4 +46,3 @@ next-env.d.ts
 .opencode
 .agents
 .claude
-AGENTS.md
